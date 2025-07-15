@@ -8,7 +8,6 @@
 - [Requirements](#requirements)  
 - [Installation](#installation)  
 - [Usage](#usage)  
-- [File Structure](#file-structure)  
 - [Data Models](#data-models)  
 - [License](#license)  
 - [Contributors](#contributors)  
