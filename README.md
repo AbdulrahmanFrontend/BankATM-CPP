@@ -49,7 +49,7 @@ git clone https://github.com/AbdulrahmanFrontend/BankATM-CPP.git
 3. Build & Run:
     - Press Ctrl + F5 (Run without debug) or F5 (Debug mode)
 
-Usage
+## Usage
 1. Login Screen:
 ```text
 -----------------------------------
@@ -70,7 +70,7 @@ Enter PIN Code: 1234
 ```
 3. Follow on-screen prompts for transactions.
 
-Data Models
+## Data Models
 
 Client Structure
 ```cpp
@@ -85,19 +85,19 @@ struct stClient {
 ```
 
 
-Data Format
+## Data Format
 
 Records are stored line-by-line in Clients.txt:
 ```text
 A123#//#1234#//#John Doe#//#555-1234#//#5000.00
 ```
 
-License
+## License
 
 MIT License - See [LICENSE](LICENSE) for details.
 
 
-Contributors
+## Contributors
 
 [Abdulrahman](https://github.com/AbdulrahmanFrontend)
 
