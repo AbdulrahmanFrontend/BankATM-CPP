@@ -71,6 +71,7 @@ Enter PIN Code: 1234
 3. Follow on-screen prompts for transactions.
 
 Data Models
+
 Client Structure
 ```cpp
 struct stClient {
@@ -84,14 +85,17 @@ struct stClient {
 ```
 
 Data Format
+
 Records are stored line-by-line in Clients.txt:
 ```text
 A123#//#1234#//#John Doe#//#555-1234#//#5000.00
 ```
 License
+
 MIT License - See [LICENSE](LICENSE) for details.
 
 Contributors
+
 [Abdulrahman](https://github.com/AbdulrahmanFrontend)
 
 ⚠️ Note: This is a simulation for educational purposes only. Not intended for real financial transactions.
