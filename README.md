@@ -38,7 +38,7 @@ A console-based ATM simulation system built with C++ that provides secure bankin
 g++ BankATM-CPP.cpp -o atm-system -std=c++11
 ```
 
-Execution
+### Execution
 
 ```bash
 ./atm-system
@@ -80,9 +80,13 @@ AccountNumber#//#PINCode#//#FullName#//#PhoneNumber#//#Balance
 **2. Main Menu Options**
 
 [1] Quick Withdraw: Choose from pre-set amounts
+
 [2] Normal Withdraw: Enter custom amount (multiples of 5)
+
 [3] Deposit: Add money to your account
+
 [4] Check Balance: View current balance
+
 [5] Logout: End session and return to login
 
 **3. Transaction Flow**
