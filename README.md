@@ -76,13 +76,16 @@ AccountNumber#//#PINCode#//#FullName#//#PhoneNumber#//#Balance
 - Enter your account number
 - Enter your 4-digit PIN code
 - System validates credentials against Clients.txt
-  **2. Main Menu Options**
-  [1] Quick Withdraw: Choose from pre-set amounts
-  [2] Normal Withdraw: Enter custom amount (multiples of 5)
-  [3] Deposit: Add money to your account
-  [4] Check Balance: View current balance
-  [5] Logout: End session and return to login
-  **3. Transaction Flow**
+
+**2. Main Menu Options**
+
+[1] Quick Withdraw: Choose from pre-set amounts
+[2] Normal Withdraw: Enter custom amount (multiples of 5)
+[3] Deposit: Add money to your account
+[4] Check Balance: View current balance
+[5] Logout: End session and return to login
+
+**3. Transaction Flow**
 
 1. Select transaction type
 2. Confirm transaction details
